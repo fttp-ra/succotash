@@ -3,7 +3,6 @@ import cv2
 import json
 import string
 import numpy as np
-%matplotlib inline  
 import pandas as pd 
 from keras import layers
 from keras import callbacks
